@@ -26,7 +26,6 @@ const BookCard = ({
           className="btn btn-primary"
           onClick={() => {
             setEditItem(book);
-
             setShowEditModal(true);
           }}
         >
